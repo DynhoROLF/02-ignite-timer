@@ -1,6 +1,7 @@
 import { createContext, useContext, useState } from 'react'
 
 const CyclesContext = createContext({} as any)
+// Não pode modificar essas informações
 
 function NewCycleForm() {
   const { activeCycle, setActiveCycle } = useContext(CyclesContext)
