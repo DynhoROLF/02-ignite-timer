@@ -22,17 +22,11 @@ This project was developed with the following technologies:
 - Styled-components
 
 # install dependecies 
-$ expo install 
+$ npm install
 
 # run app
-$ expo start
+$ npm run dev
 
 ---
 
 Made by Waldyr Filho :wave: [Get in touch!](https://www.linkedin.com/in/waldyr-romero-de-oliveira-filho-357bb013a/)
-
-[nodejs]: https://nodejs.org/
-[npm]:https://docs.npmjs.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
