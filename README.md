@@ -12,6 +12,8 @@
 
 Ignite Timer, help get track of how much time spent in any project. Insipired in Pomodoro study.
 ![image](https://github.com/DynhoROLF/02-ignite-timer/assets/97751715/0a314358-9528-49d2-b39e-d81b5251b772)
+![image](https://github.com/DynhoROLF/02-ignite-timer/assets/97751715/e6eaab95-f2a2-4e1b-ba93-e425811f8058)
+
 
 ## :rocket: Technologies
 
